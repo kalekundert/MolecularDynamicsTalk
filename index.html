@@ -1,0 +1,319 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>reveal.js - The HTML Presentation Framework</title>
+
+		<meta name="description" content="A framework for easily creating beautiful presentations using HTML">
+		<meta name="author" content="Hakim El Hattab">
+
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<link rel="stylesheet" href="css/reveal.min.css">
+		<link rel="stylesheet" href="css/theme/solarized.css" id="theme">
+
+		<!-- For syntax highlighting -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- If the query includes 'print-pdf', use the PDF print sheet -->
+		<script>
+			document.write( '<link rel="stylesheet" href="css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<!-- Any section element inside of this container is displayed as a slide -->
+            <div class="slides">
+              <section>
+                <h1>
+                  <span style="font-size: 72px; font-weight: bold;">Molecular
+                  Dynamics</span>
+                </h1>
+                <div>
+                  <br />
+                  <p>
+                    <font style="font-size: 18px;">Sara Calhoun &mdash; Sali
+                    Lab</font><br/>
+                    <font style="font-size: 18px;">Kale Kundert &mdash; Kortemme
+                    Lab</font>
+                  </p>
+                </div>
+              </section>
+              
+              <section>
+                <!-- Aquaporin -->
+                <h3>What is Molecular Dynamics?</h3>
+                <br />
+                <video width="320" height="240" controls="">
+                  <source src="http://www3.mpibpc.mpg.de/groups/de_groot/gallery/aqp1_system.mpg">
+                  Your browser does not support the video tag.</source>
+                </video>
+                <p>
+                  <font style="font-size: 18px;">Source: Bert de Groot Lab
+                  Group</font>
+                </p>
+              </section>
+
+              <section>
+                <h3>How does Molecular Dynamics Work?</h3>
+                <h4>What Happens in a Time Step</h4>
+              </section>
+
+              <section>
+                <h3>How does Molecular Dynamics Work?</h3>
+                <h4>Bonded Forces</h4>
+                <ul>
+                  <li>Bond Lengths:</li>
+                  <img src="images/bond-lengths.png" height="75"/>
+                  <li>Bond Angles:</li>
+                  <img src="images/bond-angles.png" height="75"/>
+                  <li>Torsion Angles:</li>
+                  <img src="images/torsion-angles.png" height="75"/>
+                </ul>
+              </section>
+
+              <section>
+                <h3>How does Molecular Dynamics Work?</h3>
+                <h4>Non-Bonded Forces</h4>
+                <ul>
+                  <li>Van der Waals Forces</li>
+                  <img src="images/van-der-waals.png" height="133"/>
+                  <li>Electrostatic Forces:</li>
+                  <img src="images/electrostatics.png" height="91"/>
+                </ul>
+              </section>
+
+              <section>
+                <h3>How does Molecular Dynamics Work?</h3>
+                <h4>The Hydrophobic Effect</h4>
+
+                <p>Many folding and packing interactions are mediated by the 
+                hydrophobic effect.  How is it represented?</p>
+
+                <ul>
+                  <li><em>Explicit Solvent</em></br>
+                  Simulate every water molecule.  
+                  This is expensive, but it naturally accounts for the entropy 
+                  of water.</li>
+                  <li><em>Implicit Solvent</em></br>
+                  Use the solvent-accessible surface area to roughly 
+                  approximate the hydrophobic effect.</li>
+                </ul>
+              </section>
+
+              <section>
+                <h3>How does Molecular Dynamics Work?</h3>
+                <h4>Free Energies</h4>
+                <ul>
+                  <li>Will one protein bind to another?</li>
+                  <li>What conformations exist in solution?</li>
+                  <li>How will a protein fold?</li>
+                </ul>
+                <img src="images/free-energy.png" height="100"/>
+              </section>
+
+              <section>
+                <h3>What is Molecular Dynamics Used For?</h3>
+                <ul>
+                  <li>Does the data address the question?</li>
+                  <li>Experimental validation</li>
+                  <li>Appropriate assumptions</li>
+                  <li>Time-scales of motion</li>
+                </ul>
+                <div style="text-align: center;">
+                  <img src="http://ars.els-cdn.com/content/image/1-s2.0-S1471489210001463-gr1.jpg"
+                  style="width: 621.3820535803727px; height: 344.02551794052124px; max-height: none; max-width: none;" />
+                </div>
+                <p>
+                  <font style="font-size: 18px;">Source: Zwier and Chong,
+                  Current Opinion in Pharmacology, 2010</font>
+                </p>
+              </section>
+
+              <section>
+                <h3>What is Molecular Dynamics Used For?</h3>
+                <h4>Observing protein motion at the atomic level</h4>
+                <div>
+                  <br />
+                </div>
+                <div>Native state dynamics - ensemble of conformational states
+                that a molecule explores in equilibrium</div>
+                <div>
+                  <br />
+                  <iframe width="420" height="315"
+                  src="//www.youtube-nocookie.com/embed/IkvsglnU67w?rel=0&amp;loop=1&amp;playlist=IkvsglnU67w&amp;showinfo=0&amp;controls=0"
+                  frameborder="0" allowfullscreen=""></iframe>
+                  <iframe width="420" height="315"
+                  src="//www.youtube-nocookie.com/embed/WhE1NWCxaRM?rel=0&amp;loop=1&amp;playlist=WhE1NWCxaRM&amp;showinfo=0&amp;controls=0"
+                  frameborder="0" allowfullscreen=""></iframe>
+                </div>
+                <div>
+                  <font style="font-size: 18px;">Source: Graham Johnson's
+                  Youtube Channel</font>
+                </div>
+              </section>
+
+              <section>
+                <h3>What is Molecular Dynamics Used For?</h3>
+                <h4>Simulating dynamic processes</h4>
+                <div>
+                  <br />
+                </div>
+                <div>Interesting biology involves dynamics processes:</div>
+                <div>
+                  <ul>
+                    <li>folding</li>
+                    <li>binding and assembly</li>
+                    <li>catalysis</li>
+                    <li>transport</li>
+                  </ul>
+                  <br />
+                </div>
+                <div>
+                  <br />
+                </div>
+                <div>
+                  <br />
+                </div>
+              </section>
+
+              <section>
+                <h3>What is Molecular Dynamics Used For?</h3>
+                <h4>Watch a protein fold over six microseconds</h4>
+                <div>Ultrafast folding of villin headpiece</div>
+                <div>
+                  <br />
+                  <iframe width="640" height="360"
+                  src="//www.youtube-nocookie.com/embed/sD6vyfTtE4U?rel=0&amp;showinfo=0&amp;controls=0&amp;start=14"
+                  frameborder="0" allowfullscreen=""></iframe>
+                </div>
+                <div>
+                  <font style="font-size: 18px;">Source: Freddolino et al.
+                  Biophysical Journal, 2009.</font>
+                </div>
+                <!--Common Structural Transitions in Explicit-Solvent Simulations of Villin Headpiece Folding. Peter L. Freddolino and Klaus Schulten. Biophysical Journal, Volume 97, Issue 8, 2338-2347, 21 October 2009.-->
+              </section>
+
+              <section>
+                <h3>What is Molecular Dynamics Used For?</h3>
+                <h4>Observe a conformational change - physical and over time!</h4>
+                <div>EGF Receptor following ligand disassociation</div>
+                <div>
+                  <br />
+                </div>
+                <div>
+                  <video width="320" height="240" controls=""
+                  style="width: 538px; height: 403.0783699059561px; max-height: none; max-width: none;">
+
+                    <source src="http://www.sciencedirect.com/science/MiamiMultiMediaURL/1-s2.0-S0092867412015528/1-s2.0-S0092867412015528-mmc5.mp4/272196/FULL/S0092867412015528/db5f69832effd6d06f77f47a361af2be/mmc5.mp4"
+                    type="video/mp4">Your browser does not support the video
+                    tag.</source>
+                  </video>
+                </div>
+                <div>
+                  <font style="font-size: 18px;">Source: Arkhipov et al. Cell,
+                  2013.</font>
+                </div>
+              </section>
+
+              <section>
+                <h3>What is Molecular Dynamics Used For?</h3>
+                <h4>Follow a water molecule through aquaporin</h4>
+                <div>
+                  <br />
+                </div>
+                <video width="320" height="240" controls=""
+                style="max-height: none; max-width: none; width: 569px; height: 430.4708249496982px;"
+                preload="">
+                  <source src="http://www3.mpibpc.mpg.de/groups/de_groot/gallery/aqp1_mono.mpg">
+                  Your browser does not support the video tag.</source>
+                </video>
+                <div>
+                  <font style="font-size: 18px;">Source: Bert de Groot Lab
+                  Group</font>
+                </div>
+              </section>
+
+              <section>
+                <h3>What is Molecular Dynamics Used For?</h3>
+                <h4>Understanding experimental data</h4>
+                <p>Recall that experimentally-derived structures are models.
+                Molecular dynamics is often used to refine these models.</p>
+                <br />
+                <video width="320" height="240" controls=""
+                style="max-height: none; max-width: none; width: 456px; height: 344.2228412256267px;"
+                preload="">
+                  <source src="https://www.cgl.ucsf.edu/chimera/animations/movies/1r7w.mov">
+                  Your browser does not support the video tag.</source>
+                </video>
+                <div>
+                  <font style="font-size: 18px;">Source: Viral RNA from UCSF
+                  Chimera Gallery - Du et al., Biochemistry 2004.</font>
+                </div>
+              </section>
+
+              <section>
+                <h3>Want to learn more?</h3>
+                <ul>
+                  <li>Take these fall quarter courses: <em>Macromolecular 
+                  Interactions</em> and <em>Statistical Mechanics</em></li>
+                  <li>Look out for mini-courses in the spring &mdash; Matt 
+                  Jacobson usually teaches a 3-week course on computational
+                  methods</li>
+                  <li>Labs at UCSF</li>
+                  <ul>
+                    <li>Jacobson Lab</li>
+                    <li>Sali Lab</li>
+                    <li>DeGrado Lab</li>
+                  </ul>
+                </ul>
+              </section>
+            </div>
+
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.min.js"></script>
+
+		<script>
+
+			// Full list of configuration options available here:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+				transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+
+				// Optional libraries used to extend on reveal.js
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+					{ src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+					// { src: 'plugin/search/search.js', async: true, condition: function() { return !!document.body.classList; } }
+					// { src: 'plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
+				]
+			});
+
+		</script>
+
+	</body>
+</html>

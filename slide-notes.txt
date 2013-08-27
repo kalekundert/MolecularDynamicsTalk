@@ -1,0 +1,84 @@
+1. What is Molecular Dynamics?
+    - All-atom simulation of aquaporin with a lipid membrane and explicit 
+      solvent.
+    - Not just an animation, it's physics-based!
+    - Simulation from Bert de Groot's lab
+
+2. What is Molecular Dynamics Used For?
+    - Before simulating everything, consider whether it is useful for the 
+      application
+    - Does it address the biological question? Can it generate new testable 
+      hypotheses?
+    - Can you validate it?
+    - Are these assumptions and approximations ok? Ex: This assumes classical 
+      physics - no bond breaking. 
+    - Time-scale problem (While there are some microsecond long simulations in 
+      this presentation, even on specialized supercomputers, these took months 
+      to perform)
+    - If these don't hold, consider a different approach
+
+3. Observing protein motion at the atomic level
+    - Main point here is that proteins move
+    - Simulations capture this - static experimental structures don't (although 
+      Jaime Fraser's RT xtallography work does address these limitations)
+    - Simulation is of barstar, a ribonuclease inhibitor.
+
+4. Simulating dynamic processes
+    - Life exists because of dynamic processes
+    - And we can simulate some of these
+
+5. Watch a protein fold over 6 microseconds
+    - Protein folding at atomic resolution (not many experimental techniques 
+      can get this info)
+    - This is an unrestrained explicit solvent simulation of the protein 
+      (performed by Schulten's lab at UIUC)
+    - Villin headpiece is a fast folding protein which allows its folding to be 
+      observable by MD. (Still, six microseconds is really long for MD and took 
+      months in wall-clock time to complete.)
+
+6. Observe a conformational change
+    - EGF Receptor undergoes massive conformational change upon ligand 
+      disassociation
+    - Movie is smoothed, so it looks like a typical animation, but it is a 
+      physics-based MD sim (performed by Shaw's group).
+    - MD allows us to observe conformational changes (here a large one because 
+      of the massive computational resources that Shaw's group has access to), 
+      along with the atomic details.
+
+7. Follow a water molecule through aquaporin
+    - They should have read the aquaporin paper for their discussion - here is 
+      a simulation by another group, de Groot's Lab (I’d have to double check 
+      whether it is the same one).
+    - A single molecule is colored in yellow and you can watch it cross the 
+      membrane
+    - MD is cool because you can observe these transport mechanisms at the 
+      atomic level. (At UCSF, Bill DeGrado studies other transporter systems;
+      uses MD as a tool to complement other experimental biophysical 
+      techniques.)
+
+8. Understanding experimental data
+    - Refinement of experimental structures often uses MD - like in Simulated 
+      Annealing. This can be applied for different experimental data 
+      (xtallography, NMR, EM)
+    - The movie shows 3D structures that are all consistent with the NMR data, 
+      and this was determined by MD (Simulated annealing with MD) that 
+      incorporates experimental data (here, NMR distance restraints).
+    - Charles will expand more on sampling techniques and methods that combine 
+      physics with other things like experimental data more generally. But 
+      wanted to demonstrate that MD is a method that can be used not only for 
+      simulation, but for structure determination, too.
+
+9. Want to learn more
+    - As for labs at UCSF, Jacobson lab is probably the best for delving into 
+      MD. But if they are just interested in labs that apply MD, the Sali lab, 
+      too. DeGrado lab has computational students/postdocs that use MD. Other 
+      experimental labs have collaborations and joint students, for example, 
+      the Agard lab and Fletterick lab have joint students with Jacobson lab.
+
+Links
+=====
+de Groot lab: aquaporin simulations 
+Schulten lab: villin headpiece folding
+RNA from Chimera gallery: paper on structure of loop B RNA
+D.E. Shaw lab: EGF Receptor
+Youtube video of Barstar native dynamics - G. Johnson: http://www.youtube.com/watch?v=IkvsglnU67w

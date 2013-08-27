@@ -1,0 +1,252 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>Bootcamp: Computational Biophysics</title>
+
+		<meta name="description" content="A framework for easily creating beautiful presentations using HTML">
+		<meta name="author" content="Hakim El Hattab">
+
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<link rel="stylesheet" href="css/reveal.min.css">
+		<link rel="stylesheet" href="css/theme/night.css" id="theme">
+
+		<!-- For syntax highlighting -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- If the query includes 'print-pdf', use the PDF print sheet -->
+		<script>
+			document.write( '<link rel="stylesheet" href="css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<!-- Any section element inside of this container is displayed as a slide -->
+<div class="slides">
+    <section>
+        <h1>
+    <font style="font-size: 72px;">
+        <br>
+    </font>
+</h1>
+<h1>
+<span style="font-size: 72px; font-weight: bold;">Molecular Dynamics for Biological Applications</span>
+</h1>
+<div>
+    <br>
+    <p>
+    <font style="font-size: 18px;">Bootcamp 2013</font>
+</p>
+</div>
+</section>
+<section>
+    <h3>Dynamic <font color="#00ffff">physical</font> models at atomic resolution</h3>
+<br>
+    <video width="320" height="240" controls="" style="max-height: none; max-width: none; width: 612.82px; height: 460px;" preload="">
+        <source src="./videos/aqp1_system.mp4">
+Your browser does not support the video tag.
+</video>
+        <p>
+    <font style="font-size: 18px;">Source:&nbsp; de Groot and Grubmuller, Science, 2001.</font>
+</p>
+
+
+
+
+</section>
+        <section>
+            <h3>A few considerations...</h3>
+<ul>
+<li>Does the data address the question?</li>
+<li>Experimental validation</li>
+    <li>Appropriate assumptions</li>
+<li>Time-scales of motion</li>
+</ul>
+<div style="text-align: center;">
+<img src="http://ars.els-cdn.com/content/image/1-s2.0-S1471489210001463-gr1.jpg" style="width: 621.3820535803727px; height: 344.02551794052124px; max-height: none; max-width: none;">
+            <span>
+    <br>
+        </span>
+</div>
+<p>
+<font style="font-size: 18px;">Source: Zwier and Chong, Current Opinion in Pharmacology, 2010</font>
+</p>
+</section>
+        <section>
+            <h3>Observing protein motion at the atomic level</h3>
+<div>
+<br>
+</div>
+<div>Native state dynamics - ensemble of conformational states that a molecule explores in equilibrium</div>
+<div>
+<br>
+            <iframe width="420" height="315" src="http://www.youtube-nocookie.com/embed/IkvsglnU67w?rel=0&amp;loop=1&amp;playlist=IkvsglnU67w&amp;showinfo=0&amp;controls=0" frameborder="0" allowfullscreen="">
+</iframe>
+<iframe width="420" height="315" src="http://www.youtube-nocookie.com/embed/WhE1NWCxaRM?rel=0&amp;loop=1&amp;playlist=WhE1NWCxaRM&amp;showinfo=0&amp;controls=0" frameborder="0" allowfullscreen="">
+</iframe>
+</div>
+<div>
+            <font style="font-size: 18px;">Source: Graham Johnson's Youtube Channel</font>
+        </div>
+
+
+</section>
+        <section>
+            <h3>Simulating dynamic processes</h3>
+<div>
+            <br>
+        </div>
+<div>Interesting biology involves dynamics processes:</div>
+<div>
+<ul>
+<li>folding</li>
+<li>binding and assembly</li>
+<li>catalysis</li>
+<li>transport</li>
+</ul>
+<br>
+</div>
+<div>
+        <br>
+    </div>
+<div>
+    <br>
+</div>
+</section>
+<section>
+    <h3>Watch a protein fold over six microseconds</h3>
+<div>Ultrafast folding of villin headpiece</div>
+<div>
+    <br>
+    <iframe width="640" height="360" src="http://www.youtube-nocookie.com/embed/sD6vyfTtE4U?rel=0&amp;showinfo=0&amp;controls=0&amp;start=14" frameborder="0" allowfullscreen="">
+</iframe>
+</div>
+<div>
+    <font style="font-size: 18px;">Source:&nbsp; Freddolino et al. Biophysical Journal, 2009.</font>
+</div>
+<!--Common Structural Transitions in Explicit-Solvent Simulations of Villin Headpiece Folding. Peter L. Freddolino and Klaus Schulten. Biophysical Journal, Volume 97, Issue 8, 2338-2347, 21 October 2009.-->
+
+</section>
+<section>
+    <h3>Observe a conformational change - physical and over time!</h3>
+<div>EGF Receptor following ligand disassociation
+</div>
+<div>
+    <br>
+</div>
+<div>
+<video width="320" height="240" controls="" style="width: 538px; height: 403.0783699059561px; max-height: none; max-width: none;">
+<source src="./videos/mcc5.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</div>
+<div>
+<font style="font-size: 18px;">Source: Arkhipov et al. Cell, 2013.</font>
+</div>
+
+
+
+
+
+</section>
+<section>
+    <h3>Follow a water molecule through aquaporin</h3>
+<div>
+    <br>
+</div>
+<video width="320" height="240" controls="" style="max-height: none; max-width: none; width: 569px; height: 430.4708249496982px;" preload="">
+<source src="./videos/aqp1_mono.mp4">
+Your browser does not support the video tag.
+</video>
+<div>
+    <font style="font-size: 18px;">Source: de Groot and Grubmuller, Science, 2001. 
+</font>
+</div>
+</section>
+<section>
+    <h3>Understanding experimental data</h3>
+<div>Recall: Experimentally-derived structures are models</div>
+<div>
+<br>
+</div>
+<div>Molecular dynamics (and other sampling methods) are often used in structure determination in the refinement stage</div>
+<br>
+    <video width="320" height="240" controls="" style="max-height: none; max-width: none; width: 456px; height: 344.2228412256267px;" preload="">
+        <source src="./videos/1r7w.mp4">
+Your browser does not support the video tag.
+</video>
+        <div>
+            <font style="font-size: 18px;">Source: Viral RNA from UCSF Chimera Gallery - Du et al., Biochemistry 2004.</font>
+        </div>
+</section>
+        <section>
+            <h3>Want to learn more?</h3>
+<div>
+            <br>
+        </div>
+<div>
+        <ul>
+<li>Take the Fall quarter courses 'Macromolecular Interactions' and 'Statistical Mechanics'</li>
+<li>Look out for Mini Courses in the Spring - Matt Jacobson usually teaches a 3-week course on computational methods</li>
+<li>Labs at UCSF</li>
+<ul>
+<li>Jacobson Lab</li>
+<li>Sali Lab</li>
+<li>DeGrado Lab</li>
+</ul>
+</ul>
+    </div>
+</section>
+</div>
+
+</div>
+
+
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.min.js"></script>
+
+		<script>
+
+			// Full list of configuration options available here:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+				transition: Reveal.getQueryHash().transition || 'none', // default/cube/page/concave/zoom/linear/fade/none
+
+				// Optional libraries used to extend on reveal.js
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+					{ src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+					// { src: 'plugin/search/search.js', async: true, condition: function() { return !!document.body.classList; } }
+					// { src: 'plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
+				]
+			});
+
+		</script>
+
+	</body>
+</html>
