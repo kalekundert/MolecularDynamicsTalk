@@ -41,12 +41,9 @@
                   Dynamics</span>
                 </h1>
                 <div>
-                  <br />
-                  <p>
-                    <font style="font-size: 18px;">Sara Calhoun &mdash; Sali
-                    Lab</font><br/>
-                    <font style="font-size: 18px;">Kale Kundert &mdash; Kortemme
-                    Lab</font>
+                  <p style="font-size: 18px;">Sara Calhoun &mdash; Sali Lab</p>
+                  <p style="font-size: 18px;">Kale Kundert &mdash; Kortemme Lab</p>
+                  <p style="font-size: 18px;">Diego Garrido Ruiz &mdash; Jacobson Lab</p>
                   </p>
                 </div>
               </section>
@@ -56,8 +53,7 @@
                 <h3>What is Molecular Dynamics?</h3>
                 <br />
                 <video width="320" height="240" controls="">
-                  <source src="http://www3.mpibpc.mpg.de/groups/de_groot/gallery/aqp1_system.mpg">
-                  Your browser does not support the video tag.</source>
+                  <source src="http://www3.mpibpc.mpg.de/groups/de_groot/gallery/aqp1_system.mpg"/>
                 </video>
                 <p>
                   <font style="font-size: 18px;">Source: Bert de Groot Lab
@@ -68,19 +64,38 @@
               <section>
                 <h3>How does Molecular Dynamics Work?</h3>
                 <h4>What Happens in a Time Step</h4>
+                <ul>
+                  <li>Treat every atom as a classical particle.</li>
+                  <li>Each atom has its own position and momentum.  These 
+                  quantities update according to the following equation:</li>
+                    <div style="width:100%; text-align:center">
+                      <img src="images/position-update.png" height="91"/>
+                    </div>
+                  <li>Acceleration comes from the potential energy of the 
+                  system:</li>
+                    <div style="width:100%; text-align:center">
+                      <img src="images/force-update.png" height="91"/>
+                    </div>
+                </ul>
+
               </section>
 
               <section>
                 <h3>How does Molecular Dynamics Work?</h3>
                 <h4>Bonded Forces</h4>
+                <!--<img src="images/bonded-forces.png" height="200">-->
                 <ul>
                   <li>Bond Lengths:</li>
-                  <img src="images/bond-lengths.png" height="75"/>
+                  <img src="images/plots/bond-lengths.png" height="50"/>
+                  <img src="images/bond-lengths.png" height="50"/>
                   <li>Bond Angles:</li>
-                  <img src="images/bond-angles.png" height="75"/>
+                  <img src="images/plots/bond-angles.png" height="50"/>
+                  <img src="images/bond-angles.png" height="50"/>
                   <li>Torsion Angles:</li>
-                  <img src="images/torsion-angles.png" height="75"/>
+                  <img src="images/plots/torsion-angles.png" height="50"/>
+                  <img src="images/torsion-angles.png" height="50"/>
                 </ul>
+                <!--<img src="demos/torsion-image.png" height="150"/>-->
               </section>
 
               <section>
@@ -88,9 +103,19 @@
                 <h4>Non-Bonded Forces</h4>
                 <ul>
                   <li>Van der Waals Forces</li>
-                  <img src="images/van-der-waals.png" height="133"/>
+                    <table><tr>
+                      <td style="vertical-align:middle">
+                        <img src="images/plots/van-der-waals.png" height="50"/></td>
+                      <td style="vertical-align:middle">
+                        <img src="images/van-der-waals.png" height="77"/></td>
+                    </tr></table>
                   <li>Electrostatic Forces:</li>
-                  <img src="images/electrostatics.png" height="91"/>
+                    <table><tr>
+                      <td style="vertical-align:middle">
+                        <img src="images/plots/electrostatics.png" height="50"/></td>
+                      <td style="vertical-align:middle">
+                        <img src="images/electrostatics.png" height="61"/></td>
+                    </tr></table>
                 </ul>
               </section>
 
@@ -326,7 +351,7 @@
 				center: true,
 
 				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
-				transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+				transition: 'none',
 
 				// Optional libraries used to extend on reveal.js
 				dependencies: [
