@@ -18,5 +18,6 @@ ylim(-1.2, 1.2)
 grid()
 
 if not fork():
+    savefig('big-comparison.pdf')
     show()
 

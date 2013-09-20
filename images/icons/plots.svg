@@ -10,15 +10,15 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="plots.svg"
-   inkscape:version="0.48.4 r9939"
-   version="1.1"
-   id="svg2"
-   height="50"
-   width="150"
-   inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/plots/torsion-angles.png"
+   inkscape:export-ydpi="90"
    inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/plots/torsion-angles.png"
+   width="150"
+   height="50"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="plots.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="162.2004"
-     inkscape:cy="-11.659608"
+     inkscape:zoom="0.7"
+     inkscape:cx="-10.079141"
+     inkscape:cy="-35.07955"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer7"
      showgrid="false"
      inkscape:window-width="1914"
      inkscape:window-height="1194"
@@ -43,7 +43,225 @@
      showborder="true"
      borderlayer="false" />
   <defs
-     id="defs4" />
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-60.609152 : -0.25381493 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="89.390845 : -0.25381493 : 1"
+       inkscape:persp3d-origin="14.390845 : -8.5871449 : 1"
+       id="perspective6181" />
+    <clipPath
+       id="clipPath5113"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path5115"
+         d="m 72,43.2 446.4,0 0,345.6 -446.4,0 0,-345.6 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath5095"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path5097"
+         d="m 72,43.2 446.4,0 0,345.6 -446.4,0 0,-345.6 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath5077"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path5079"
+         d="m 72,43.2 446.4,0 0,345.6 -446.4,0 0,-345.6 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath5067"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path5069"
+         d="m -1021,-416 2702,0 0,1583 -2702,0 0,-1583 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath5045"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path5047"
+         d="m 72,43.2 446.4,0 0,345.6 -446.4,0 0,-345.6 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath5035"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path5037"
+         d="m -1021,-416 2702,0 0,1583 -2702,0 0,-1583 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath5013"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path5015"
+         d="m 72,43.2 446.4,0 0,345.6 -446.4,0 0,-345.6 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4991"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path4993"
+         d="m 72,43.2 446.4,0 0,345.6 -446.4,0 0,-345.6 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4973"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path4975"
+         d="m 72,43.2 446.4,0 0,345.6 -446.4,0 0,-345.6 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4955"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path4957"
+         d="m 72,43.2 446.4,0 0,345.6 -446.4,0 0,-345.6 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4937"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path4939"
+         d="m 72,43.2 446.4,0 0,345.6 -446.4,0 0,-345.6 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4919"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path4921"
+         d="m 72,43.2 446.4,0 0,345.6 -446.4,0 0,-345.6 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4901"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path4903"
+         d="m 72,43.2 446.4,0 0,345.6 -446.4,0 0,-345.6 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4891"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path4893"
+         d="m 72,43.2 446.4,0 0,345.6 -446.4,0 0,-345.6 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4881"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path4883"
+         d="m 72,43.2 446.4,0 0,345.6 -446.4,0 0,-345.6 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath5849"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path5851"
+         d="m 72,43.2 446.4,0 0,345.6 -446.4,0 0,-345.6 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath5831"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path5833"
+         d="m 72,43.2 446.4,0 0,345.6 -446.4,0 0,-345.6 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath5813"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path5815"
+         d="m 72,43.2 446.4,0 0,345.6 -446.4,0 0,-345.6 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath5803"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path5805"
+         d="m -1021,-416 2702,0 0,1583 -2702,0 0,-1583 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath5781"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path5783"
+         d="m 72,43.2 446.4,0 0,345.6 -446.4,0 0,-345.6 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath5771"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path5773"
+         d="m -1021,-416 2702,0 0,1583 -2702,0 0,-1583 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath5749"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path5751"
+         d="m 72,43.2 446.4,0 0,345.6 -446.4,0 0,-345.6 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath5727"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path5729"
+         d="m 72,43.2 446.4,0 0,345.6 -446.4,0 0,-345.6 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath5709"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path5711"
+         d="m 72,43.2 446.4,0 0,345.6 -446.4,0 0,-345.6 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath5691"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path5693"
+         d="m 72,43.2 446.4,0 0,345.6 -446.4,0 0,-345.6 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath5673"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path5675"
+         d="m 72,43.2 446.4,0 0,345.6 -446.4,0 0,-345.6 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath5655"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path5657"
+         d="m 72,43.2 446.4,0 0,345.6 -446.4,0 0,-345.6 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath5637"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path5639"
+         d="m 72,43.2 446.4,0 0,345.6 -446.4,0 0,-345.6 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath5627"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path5629"
+         d="m 72,43.2 446.4,0 0,345.6 -446.4,0 0,-345.6 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath5617"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path5619"
+         d="m 72,43.2 446.4,0 0,345.6 -446.4,0 0,-345.6 z" />
+    </clipPath>
+  </defs>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -104,7 +322,743 @@
     </g>
   </g>
   <g
-     style="display:none"
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Big Plot"
+     style="display:inline">
+    <path
+       inkscape:connector-curvature="0"
+       d="m 279.42656,515.96959 720,0 0,-540 -720,0 0,540 z"
+       style="fill:#eee8d5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path5609"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 369.42656,461.96959 558,0 0,-432 -558,0 0,432 z"
+       style="fill:#fdf6e3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path5611"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g5633"
+       transform="matrix(1.25,0,0,-1.25,279.42656,515.96959)"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g5635"
+         clip-path="url(#clipPath5637)">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 72,43.2 0,345.6"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:1, 3;stroke-dashoffset:0"
+           id="path5641" />
+      </g>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 369.42656,461.96959 0,-5"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5643"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 369.42656,29.96959 0,5"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5645"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       id="text5647"
+       x="365.64725"
+       y="478.10239"
+       style="font-size:15px"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <tspan
+         style="font-size:15px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSans"
+         x="365.64725"
+         y="478.10239"
+         id="tspan5649">0</tspan>
+    </text>
+    <g
+       id="g5651"
+       transform="matrix(1.25,0,0,-1.25,279.42656,515.96959)"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g5653"
+         clip-path="url(#clipPath5655)">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 161.28,43.2 0,345.6"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:1, 3;stroke-dashoffset:0"
+           id="path5659" />
+      </g>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 481.02656,461.96959 0,-5"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5661"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 481.02656,29.96959 0,5"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5663"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       id="text5665"
+       x="477.54999"
+       y="478.10239"
+       style="font-size:15px"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <tspan
+         style="font-size:15px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSans"
+         x="477.54999"
+         y="478.10239"
+         id="tspan5667">2</tspan>
+    </text>
+    <g
+       id="g5669"
+       transform="matrix(1.25,0,0,-1.25,279.42656,515.96959)"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g5671"
+         clip-path="url(#clipPath5673)">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 250.56,43.2 0,345.6"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:1, 3;stroke-dashoffset:0"
+           id="path5677" />
+      </g>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 592.62656,461.96959 0,-5"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5679"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 592.62656,29.96959 0,5"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5681"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       id="text5683"
+       x="588.64215"
+       y="477.9071"
+       style="font-size:15px"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <tspan
+         style="font-size:15px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSans"
+         x="588.64215"
+         y="477.9071"
+         id="tspan5685">4</tspan>
+    </text>
+    <g
+       id="g5687"
+       transform="matrix(1.25,0,0,-1.25,279.42656,515.96959)"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g5689"
+         clip-path="url(#clipPath5691)">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 339.84,43.2 0,345.6"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:1, 3;stroke-dashoffset:0"
+           id="path5695" />
+      </g>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 704.22656,461.96959 0,-5"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5697"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 704.22656,29.96959 0,5"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5699"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       id="text5701"
+       x="700.45703"
+       y="478.10239"
+       style="font-size:15px"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <tspan
+         style="font-size:15px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSans"
+         x="700.45703"
+         y="478.10239"
+         id="tspan5703">6</tspan>
+    </text>
+    <g
+       id="g5705"
+       transform="matrix(1.25,0,0,-1.25,279.42656,515.96959)"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g5707"
+         clip-path="url(#clipPath5709)">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 429.12,43.2 0,345.6"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:1, 3;stroke-dashoffset:0"
+           id="path5713" />
+      </g>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 815.82656,461.96959 0,-5"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5715"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 815.82656,29.96959 0,5"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5717"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       id="text5719"
+       x="812.07654"
+       y="478.10239"
+       style="font-size:15px"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <tspan
+         style="font-size:15px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSans"
+         x="812.07654"
+         y="478.10239"
+         id="tspan5721">8</tspan>
+    </text>
+    <g
+       id="g5723"
+       transform="matrix(1.25,0,0,-1.25,279.42656,515.96959)"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g5725"
+         clip-path="url(#clipPath5727)">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 518.4,43.2 0,345.6"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:1, 3;stroke-dashoffset:0"
+           id="path5731" />
+      </g>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 927.42656,461.96959 0,-5"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5733"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 927.42656,29.96959 0,5"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5735"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       id="text5737"
+       x="919.19415"
+       y="478.10239"
+       style="font-size:15px"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <tspan
+         style="font-size:15px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSans"
+         x="919.19415 928.73413"
+         y="478.10239"
+         sodipodi:role="line"
+         id="tspan5739">10</tspan>
+    </text>
+    <text
+       id="text5741"
+       x="616.76642"
+       y="495.97351"
+       style="font-size:15px"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <tspan
+         style="font-size:15px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSans"
+         x="616.76642 628.31641 632.48639 640.30139 646.1814 655.3764 664.88641 673.13641"
+         y="495.97351"
+         sodipodi:role="line"
+         id="tspan5743">Distance</tspan>
+    </text>
+    <g
+       id="g5745"
+       transform="matrix(1.25,0,0,-1.25,279.42656,515.96959)"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g5747"
+         clip-path="url(#clipPath5749)">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 72,72 446.4,0"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:1, 3;stroke-dashoffset:0"
+           id="path5753" />
+      </g>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 369.42656,425.96959 5,0"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5755"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 927.42656,425.96959 -5,0"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5757"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g5759"
+       transform="matrix(1.25,0,0,-1.25,330.55937,431.64342)"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <text
+         transform="matrix(1,0,0,-1,10.054688,0.171875)"
+         id="text5761">
+        <tspan
+           style="font-size:12px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSans"
+           x="0 7.632 11.448"
+           y="0"
+           sodipodi:role="line"
+           id="tspan5763">1.0</tspan>
+      </text>
+      <g
+         id="g5765"
+         transform="scale(0.012,0.012)">
+        <g
+           id="g5767">
+          <g
+             id="g5769"
+             clip-path="url(#clipPath5771)">
+            <path
+               inkscape:connector-curvature="0"
+               d="m 106,355 626,0 0,-83 -626,0 0,83"
+               style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="path5775" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g5777"
+       transform="matrix(1.25,0,0,-1.25,279.42656,515.96959)"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g5779"
+         clip-path="url(#clipPath5781)">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 72,144 446.4,0"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:1, 3;stroke-dashoffset:0"
+           id="path5785" />
+      </g>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 369.42656,335.96959 5,0"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5787"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 927.42656,335.96959 -5,0"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5789"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g5791"
+       transform="matrix(1.25,0,0,-1.25,330.87187,341.64342)"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <text
+         transform="matrix(1,0,0,-1,10.054688,0.171875)"
+         id="text5793">
+        <tspan
+           style="font-size:12px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSans"
+           x="0 7.632 11.448"
+           y="0"
+           sodipodi:role="line"
+           id="tspan5795">0.5</tspan>
+      </text>
+      <g
+         id="g5797"
+         transform="scale(0.012,0.012)">
+        <g
+           id="g5799">
+          <g
+             id="g5801"
+             clip-path="url(#clipPath5803)">
+            <path
+               inkscape:connector-curvature="0"
+               d="m 106,355 626,0 0,-83 -626,0 0,83"
+               style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="path5807" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g5809"
+       transform="matrix(1.25,0,0,-1.25,279.42656,515.96959)"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g5811"
+         clip-path="url(#clipPath5813)">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 72,216 446.4,0"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:1, 3;stroke-dashoffset:0"
+           id="path5817" />
+      </g>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 369.42656,245.96959 5,0"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5819"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 927.42656,245.96959 -5,0"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5821"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       id="text5823"
+       x="342.55157"
+       y="251.42857"
+       style="font-size:15px"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <tspan
+         style="font-size:15px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSans"
+         x="342.55157 352.09155 356.86157"
+         y="251.42857"
+         sodipodi:role="line"
+         id="tspan5825">0.0</tspan>
+    </text>
+    <g
+       id="g5827"
+       transform="matrix(1.25,0,0,-1.25,279.42656,515.96959)"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g5829"
+         clip-path="url(#clipPath5831)">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 72,288 446.4,0"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:1, 3;stroke-dashoffset:0"
+           id="path5835" />
+      </g>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 369.42656,155.96959 5,0"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5837"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 927.42656,155.96959 -5,0"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5839"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       id="text5841"
+       x="342.86407"
+       y="161.42857"
+       style="font-size:15px"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <tspan
+         style="font-size:15px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSans"
+         x="342.86407 352.40405 357.17407"
+         y="161.42857"
+         sodipodi:role="line"
+         id="tspan5843">0.5</tspan>
+    </text>
+    <g
+       id="g5845"
+       transform="matrix(1.25,0,0,-1.25,279.42656,515.96959)"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g5847"
+         clip-path="url(#clipPath5849)">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 72,360 446.4,0"
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:1, 3;stroke-dashoffset:0"
+           id="path5853" />
+      </g>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 369.42656,65.96959 5,0"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5855"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 927.42656,65.96959 -5,0"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5857"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       id="text5859"
+       x="343.19608"
+       y="71.428581"
+       style="font-size:15px"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <tspan
+         style="font-size:15px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSans"
+         x="343.19608 352.73608 357.5061"
+         y="71.428581"
+         sodipodi:role="line"
+         id="tspan5861">1.0</tspan>
+    </text>
+    <text
+       transform="matrix(0,-1,1,0,0,0)"
+       id="text5863"
+       x="-271.26257"
+       y="321.18436"
+       style="font-size:15px"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <tspan
+         style="font-size:15px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSans"
+         x="-271.26257 -261.78256 -252.27255 -243.04756 -236.88255 -227.35756"
+         y="321.18436"
+         sodipodi:role="line"
+         id="tspan5865">Energy</tspan>
+    </text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 369.42656,29.96959 558,0"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5867"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 927.42656,461.96959 0,-432"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5869"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 369.42656,461.96959 558,0"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5871"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 369.42656,461.96959 0,-432"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5873"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       id="text5875"
+       x="444.36407"
+       y="23.719589"
+       style="font-size:15px"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <tspan
+         style="font-size:18px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSans"
+         x="444.36407 456.92807 467.94406 485.47604 496.90607 507.94006 515.33807 520.34204 529.72003 540.73608 552.14807 557.87207 568.88806 575.22406 580.94806 588.00409 599.41608 610.48608 616.21008 629.67407 640.69006 652.10205 658.60004 670.94806 681.96405 693.37604 704.80609 715.87604 727.30609 733.03009 744.40607 755.81805 766.88806 774.28607 785.71606 796.37207 802.09607 813.09406 824.16406 831.56207 849.09406"
+         y="23.719589"
+         sodipodi:role="line"
+         id="tspan5877">Comparison of the Non-Bonded Energy Terms</tspan>
+    </text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 726.86875,92.857878 191.55781,0 0,-53.888288 -191.55781,0 0,53.888288 z"
+       style="fill:#fdf6e3;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5879"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g6158"
+       style="stroke-width:3;stroke-miterlimit:10;stroke-dasharray:none"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="matrix(1.25,0,0,-1.25,279.42656,515.96959)"
+         id="g5615"
+         clip-path="url(#clipPath5617)"
+         style="stroke-width:2.4000001;stroke-miterlimit:10;stroke-dasharray:none">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 110.13164,433 0.74363,-120.44886 0.89369,-96.48536 0.8937,-62.95033 0.89369,-39.67411 0.8937,-23.56776 0.89369,-12.48735 0.89369,-4.936934 0.8937,0.132132 0.89369,3.457927 0.8937,5.561676 1.78739,14.284348 3.57478,30.133071 1.78739,13.20759 1.78738,11.50352 1.78739,9.84617 1.78739,8.34497 1.78739,7.03512 1.78739,5.91624 1.78739,4.97222 1.78739,4.18136 1.78739,3.52129 1.78739,2.9713 1.78739,2.51307 1.78739,2.13099 1.78739,1.81194 1.78738,1.54498 1.78739,1.3211 2.68109,1.63818 2.68108,1.30904 2.68109,1.05253 3.57477,1.09809 3.57478,0.83598 4.46847,0.77915 5.36217,0.66308 6.25586,0.5257 8.04326,0.43248 10.72433,0.33451 16.0865,0.24812 26.81084,0.15494 60.77123,0.0736 213.59301,0.014 0,0"
+           style="fill:none;stroke:#204a87;stroke-width:2.4000001;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           id="path5621" />
+      </g>
+      <path
+         id="path5881"
+         style="fill:none;stroke:#204a87;stroke-width:3;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         d="m 739.46875,53.170378 25.2,0"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       id="text5883"
+       x="784.46875"
+       y="59.470379"
+       style="font-size:15px"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <tspan
+         style="font-size:18px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSans"
+         x="784.46875 796.78076 807.81476 819.22675 824.95074 836.38074 847.45074 854.84875 860.57275 878.37476 889.40875 900.44275 905.44678"
+         y="59.470379"
+         sodipodi:role="line"
+         id="tspan5885">Van der Waals</tspan>
+    </text>
+    <g
+       id="g6163"
+       style="stroke-width:3;stroke-miterlimit:10;stroke-dasharray:none"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="matrix(1.25,0,0,-1.25,279.42656,515.96959)"
+         id="g5623"
+         style="stroke-width:2.4000001;stroke-miterlimit:10;stroke-dasharray:none">
+        <g
+           clip-path="url(#clipPath5627)"
+           id="g5625"
+           style="stroke-width:2.4000001;stroke-miterlimit:10;stroke-dasharray:none">
+          <path
+             id="path5631"
+             style="fill:none;stroke:#cc0000;stroke-width:2.4000001;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+             d="m 101.62901,-1 1.20301,8.5102278 1.78739,11.4242542 1.78738,10.237302 1.78739,9.226199 1.78739,8.357841 1.78739,7.606565 2.68109,10.208799 2.68108,8.99586 2.68108,7.986969 2.68109,7.138788 2.68108,6.418904 2.68108,5.802681 2.68109,5.27114 2.68108,4.80943 2.68109,4.40584 2.68108,4.051 2.68108,3.73737 3.57478,4.55516 3.57478,4.12895 3.57478,3.75987 3.57478,3.43817 3.57478,3.15607 3.57477,2.90731 4.46848,3.32702 4.46847,3.02864 4.46847,2.76866 5.36217,3.02406 5.36217,2.74166 5.36216,2.49705 6.25587,2.64557 6.25586,2.39616 7.14956,2.476 7.14955,2.23516 8.04325,2.26818 8.04326,2.04447 8.93694,2.04742 9.83064,2.01974 10.72434,1.9682 11.61803,1.89894 12.51172,1.81731 13.40542,1.72783 15.19281,1.72993 16.98019,1.6963 18.76759,1.6364 20.55498,1.55859 22.34236,1.4698 25.02345,1.42274 28.59823,1.39509 32.173,1.3367 35.74779,1.25879 0.89369,0.0289 0,0"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <path
+         id="path5887"
+         style="fill:none;stroke:#cc0000;stroke-width:3;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         d="m 739.46875,79.103965 25.2,0"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       id="text5889"
+       x="784.46875"
+       y="85.403969"
+       style="font-size:15px"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <tspan
+         style="font-size:18px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSans"
+         x="784.46875 795.84473 800.84875 811.91876 821.81873 828.87476 836.27277 847.28876 856.66675 863.72278 874.75677 881.81274 886.81677"
+         y="85.403969"
+         sodipodi:role="line"
+         id="tspan5891">Electrostatic</tspan>
+    </text>
+  </g>
+  <g
+     style="display:inline"
      transform="translate(0,-1002.3622)"
      id="layer1"
      inkscape:groupmode="layer"
@@ -157,7 +1111,7 @@
          sodipodi:cy="1209.9459"
          sodipodi:rx="8.0812206"
          sodipodi:ry="8.0812206"
-         d="m 2.0203052,1209.9459 c 0,4.4632 -3.6180858,8.0812 -8.0812207,8.0812 -4.4631345,0 -8.0812205,-3.618 -8.0812205,-8.0812 0,-4.4631 3.618086,-8.0812 8.0812205,-8.0812 4.4631349,0 8.0812207,3.6181 8.0812207,8.0812 z"
+         d="m 2.0203052,1209.9459 a 8.0812206,8.0812206 0 1 1 -16.1624412,0 8.0812206,8.0812206 0 1 1 16.1624412,0 z"
          transform="matrix(0.7424621,0,0,0.7424621,38.264776,137.98036)" />
       <rect
          style="fill:#fdf6e3;fill-opacity:1;stroke:#657b83;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
@@ -174,7 +1128,7 @@
          sodipodi:cy="1209.9459"
          sodipodi:rx="8.0812206"
          sodipodi:ry="8.0812206"
-         d="m 2.0203052,1209.9459 c 0,4.4632 -3.6180858,8.0812 -8.0812207,8.0812 -4.4631345,0 -8.0812205,-3.618 -8.0812205,-8.0812 0,-4.4631 3.618086,-8.0812 8.0812205,-8.0812 4.4631349,0 8.0812207,3.6181 8.0812207,8.0812 z"
+         d="m 2.0203052,1209.9459 a 8.0812206,8.0812206 0 1 1 -16.1624412,0 8.0812206,8.0812206 0 1 1 16.1624412,0 z"
          transform="matrix(0.7424621,0,0,0.7424621,21.479056,121.90894)" />
       <path
          style="fill:#fdf6e3;fill-opacity:1;stroke:#657b83;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
@@ -184,7 +1138,7 @@
     </g>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      transform="translate(0,-1002.3622)"
      inkscape:label="Van der Waals"
      id="layer2"
@@ -225,7 +1179,7 @@
          sodipodi:cy="1209.9459"
          sodipodi:rx="8.0812206"
          sodipodi:ry="8.0812206"
-         d="m 2.0203052,1209.9459 c 0,4.4632 -3.6180858,8.0812 -8.0812207,8.0812 -4.4631345,0 -8.0812205,-3.618 -8.0812205,-8.0812 0,-4.4631 3.618086,-8.0812 8.0812205,-8.0812 4.4631349,0 8.0812207,3.6181 8.0812207,8.0812 z"
+         d="m 2.0203052,1209.9459 a 8.0812206,8.0812206 0 1 1 -16.1624412,0 8.0812206,8.0812206 0 1 1 16.1624412,0 z"
          transform="matrix(0.7424621,0,0,0.7424621,115.05025,139.76599)" />
       <path
          sodipodi:type="arc"
@@ -235,7 +1189,7 @@
          sodipodi:cy="1209.9459"
          sodipodi:rx="8.0812206"
          sodipodi:ry="8.0812206"
-         d="m 2.0203052,1209.9459 c 0,4.4632 -3.6180858,8.0812 -8.0812207,8.0812 -4.4631345,0 -8.0812205,-3.618 -8.0812205,-8.0812 0,-4.4631 3.618086,-8.0812 8.0812205,-8.0812 4.4631349,0 8.0812207,3.6181 8.0812207,8.0812 z"
+         d="m 2.0203052,1209.9459 a 8.0812206,8.0812206 0 1 1 -16.1624412,0 8.0812206,8.0812206 0 1 1 16.1624412,0 z"
          transform="matrix(0.7424621,0,0,0.7424621,94.69311,119.05178)" />
       <path
          style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#657b83;fill-opacity:1;stroke:none;stroke-width:3.5087719;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
@@ -274,7 +1228,7 @@
          sodipodi:cy="1209.9459"
          sodipodi:rx="8.0812206"
          sodipodi:ry="8.0812206"
-         d="m 2.0203052,1209.9459 c 0,4.4632 -3.6180858,8.0812 -8.0812207,8.0812 -4.4631345,0 -8.0812205,-3.618 -8.0812205,-8.0812 0,-4.4631 3.618086,-8.0812 8.0812205,-8.0812 4.4631349,0 8.0812207,3.6181 8.0812207,8.0812 z"
+         d="m 2.0203052,1209.9459 a 8.0812206,8.0812206 0 1 1 -16.1624412,0 8.0812206,8.0812206 0 1 1 16.1624412,0 z"
          transform="matrix(0.7424621,0,0,0.7424621,96.05187,124.2118)" />
       <path
          sodipodi:type="arc"
@@ -284,7 +1238,7 @@
          sodipodi:cy="1209.9459"
          sodipodi:rx="8.0812206"
          sodipodi:ry="8.0812206"
-         d="m 2.0203052,1209.9459 c 0,4.4632 -3.6180858,8.0812 -8.0812207,8.0812 -4.4631345,0 -8.0812205,-3.618 -8.0812205,-8.0812 0,-4.4631 3.618086,-8.0812 8.0812205,-8.0812 4.4631349,0 8.0812207,3.6181 8.0812207,8.0812 z"
+         d="m 2.0203052,1209.9459 a 8.0812206,8.0812206 0 1 1 -16.1624412,0 8.0812206,8.0812206 0 1 1 16.1624412,0 z"
          transform="matrix(0.7424621,0,0,0.7424621,90.93384,142.75213)" />
       <path
          sodipodi:type="arc"
@@ -294,7 +1248,7 @@
          sodipodi:cy="1209.9459"
          sodipodi:rx="8.0812206"
          sodipodi:ry="8.0812206"
-         d="m 2.0203052,1209.9459 c 0,4.4632 -3.6180858,8.0812 -8.0812207,8.0812 -4.4631345,0 -8.0812205,-3.618 -8.0812205,-8.0812 0,-4.4631 3.618086,-8.0812 8.0812205,-8.0812 4.4631349,0 8.0812207,3.6181 8.0812207,8.0812 z"
+         d="m 2.0203052,1209.9459 a 8.0812206,8.0812206 0 1 1 -16.1624412,0 8.0812206,8.0812206 0 1 1 16.1624412,0 z"
          transform="matrix(0.7424621,0,0,0.7424621,118.47409,115.17162)" />
       <path
          sodipodi:type="arc"
@@ -304,7 +1258,7 @@
          sodipodi:cy="1209.9459"
          sodipodi:rx="8.0812206"
          sodipodi:ry="8.0812206"
-         d="m 2.0203052,1209.9459 c 0,4.4632 -3.6180858,8.0812 -8.0812207,8.0812 -4.4631345,0 -8.0812205,-3.618 -8.0812205,-8.0812 0,-4.4631 3.618086,-8.0812 8.0812205,-8.0812 4.4631349,0 8.0812207,3.6181 8.0812207,8.0812 z"
+         d="m 2.0203052,1209.9459 a 8.0812206,8.0812206 0 1 1 -16.1624412,0 8.0812206,8.0812206 0 1 1 16.1624412,0 z"
          transform="matrix(0.7424621,0,0,0.7424621,112.76469,134.11942)" />
     </g>
     <g
@@ -327,7 +1281,7 @@
     </g>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      transform="translate(0,-1002.3622)"
      inkscape:label="Bond Angle"
      id="layer4"
@@ -355,7 +1309,7 @@
          sodipodi:cy="1209.9459"
          sodipodi:rx="8.0812206"
          sodipodi:ry="8.0812206"
-         d="m 2.0203052,1209.9459 c 0,4.4632 -3.6180858,8.0812 -8.0812207,8.0812 -4.4631345,0 -8.0812205,-3.618 -8.0812205,-8.0812 0,-4.4631 3.618086,-8.0812 8.0812205,-8.0812 4.4631349,0 8.0812207,3.6181 8.0812207,8.0812 z"
+         d="m 2.0203052,1209.9459 a 8.0812206,8.0812206 0 1 1 -16.1624412,0 8.0812206,8.0812206 0 1 1 16.1624412,0 z"
          transform="matrix(0.7424621,0,0,0.7424621,93.39405,133.78212)" />
       <path
          sodipodi:type="arc"
@@ -365,7 +1319,7 @@
          sodipodi:cy="1209.9459"
          sodipodi:rx="8.0812206"
          sodipodi:ry="8.0812206"
-         d="m 2.0203052,1209.9459 c 0,4.4632 -3.6180858,8.0812 -8.0812207,8.0812 -4.4631345,0 -8.0812205,-3.618 -8.0812205,-8.0812 0,-4.4631 3.618086,-8.0812 8.0812205,-8.0812 4.4631349,0 8.0812207,3.6181 8.0812207,8.0812 z"
+         d="m 2.0203052,1209.9459 a 8.0812206,8.0812206 0 1 1 -16.1624412,0 8.0812206,8.0812206 0 1 1 16.1624412,0 z"
          transform="matrix(0.7424621,0,0,0.7424621,114.82261,138.78213)" />
       <path
          sodipodi:type="arc"
@@ -375,7 +1329,7 @@
          sodipodi:cy="1209.9459"
          sodipodi:rx="8.0812206"
          sodipodi:ry="8.0812206"
-         d="m 2.0203052,1209.9459 c 0,4.4632 -3.6180858,8.0812 -8.0812207,8.0812 -4.4631345,0 -8.0812205,-3.618 -8.0812205,-8.0812 0,-4.4631 3.618086,-8.0812 8.0812205,-8.0812 4.4631349,0 8.0812207,3.6181 8.0812207,8.0812 z"
+         d="m 2.0203052,1209.9459 a 8.0812206,8.0812206 0 1 1 -16.1624412,0 8.0812206,8.0812206 0 1 1 16.1624412,0 z"
          transform="matrix(0.7424621,0,0,0.7424621,114.10833,117.35355)" />
     </g>
     <g
@@ -398,7 +1352,7 @@
     </g>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      transform="translate(0,-1002.3622)"
      inkscape:label="Bond Length"
      id="layer5"
@@ -425,7 +1379,7 @@
          sodipodi:cy="1209.9459"
          sodipodi:rx="8.0812206"
          sodipodi:ry="8.0812206"
-         d="m 2.0203052,1209.9459 c 0,4.4632 -3.6180858,8.0812 -8.0812207,8.0812 -4.4631345,0 -8.0812205,-3.618 -8.0812205,-8.0812 0,-4.4631 3.618086,-8.0812 8.0812205,-8.0812 4.4631349,0 8.0812207,3.6181 8.0812207,8.0812 z"
+         d="m 2.0203052,1209.9459 a 8.0812206,8.0812206 0 1 1 -16.1624412,0 8.0812206,8.0812206 0 1 1 16.1624412,0 z"
          transform="matrix(0.7424621,0,0,0.7424621,20.216965,135.38403)" />
       <path
          sodipodi:type="arc"
@@ -435,7 +1389,7 @@
          sodipodi:cy="1209.9459"
          sodipodi:rx="8.0812206"
          sodipodi:ry="8.0812206"
-         d="m 2.0203052,1209.9459 c 0,4.4632 -3.6180858,8.0812 -8.0812207,8.0812 -4.4631345,0 -8.0812205,-3.618 -8.0812205,-8.0812 0,-4.4631 3.618086,-8.0812 8.0812205,-8.0812 4.4631349,0 8.0812207,3.6181 8.0812207,8.0812 z"
+         d="m 2.0203052,1209.9459 a 8.0812206,8.0812206 0 1 1 -16.1624412,0 8.0812206,8.0812206 0 1 1 16.1624412,0 z"
          transform="matrix(0.7424621,0,0,0.7424621,38.074115,123.59832)" />
     </g>
     <g
