@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="-10.079141"
-     inkscape:cy="-35.07955"
+     inkscape:cx="270.6123"
+     inkscape:cy="-172.40097"
      inkscape:document-units="px"
      inkscape:current-layer="layer7"
      showgrid="false"
@@ -923,25 +923,9 @@
     </text>
     <path
        inkscape:connector-curvature="0"
-       d="m 369.42656,29.96959 558,0"
-       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
-       id="path5867"
-       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       inkscape:connector-curvature="0"
        d="m 927.42656,461.96959 0,-432"
        style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
        id="path5869"
-       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 369.42656,461.96959 558,0"
-       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
-       id="path5871"
        inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -976,29 +960,6 @@
        inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
-    <g
-       id="g6158"
-       style="stroke-width:3;stroke-miterlimit:10;stroke-dasharray:none"
-       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <g
-         transform="matrix(1.25,0,0,-1.25,279.42656,515.96959)"
-         id="g5615"
-         clip-path="url(#clipPath5617)"
-         style="stroke-width:2.4000001;stroke-miterlimit:10;stroke-dasharray:none">
-        <path
-           inkscape:connector-curvature="0"
-           d="m 110.13164,433 0.74363,-120.44886 0.89369,-96.48536 0.8937,-62.95033 0.89369,-39.67411 0.8937,-23.56776 0.89369,-12.48735 0.89369,-4.936934 0.8937,0.132132 0.89369,3.457927 0.8937,5.561676 1.78739,14.284348 3.57478,30.133071 1.78739,13.20759 1.78738,11.50352 1.78739,9.84617 1.78739,8.34497 1.78739,7.03512 1.78739,5.91624 1.78739,4.97222 1.78739,4.18136 1.78739,3.52129 1.78739,2.9713 1.78739,2.51307 1.78739,2.13099 1.78739,1.81194 1.78738,1.54498 1.78739,1.3211 2.68109,1.63818 2.68108,1.30904 2.68109,1.05253 3.57477,1.09809 3.57478,0.83598 4.46847,0.77915 5.36217,0.66308 6.25586,0.5257 8.04326,0.43248 10.72433,0.33451 16.0865,0.24812 26.81084,0.15494 60.77123,0.0736 213.59301,0.014 0,0"
-           style="fill:none;stroke:#204a87;stroke-width:2.4000001;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
-           id="path5621" />
-      </g>
-      <path
-         id="path5881"
-         style="fill:none;stroke:#204a87;stroke-width:3;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
-         d="m 739.46875,53.170378 25.2,0"
-         inkscape:connector-curvature="0" />
-    </g>
     <text
        id="text5883"
        x="784.46875"
@@ -1041,6 +1002,45 @@
          d="m 739.46875,79.103965 25.2,0"
          inkscape:connector-curvature="0" />
     </g>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 369.42656,461.96959 558,0"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5871"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g6158"
+       style="stroke-width:3;stroke-miterlimit:10;stroke-dasharray:none"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="matrix(1.25,0,0,-1.25,279.42656,515.96959)"
+         id="g5615"
+         clip-path="url(#clipPath5617)"
+         style="stroke-width:2.4000001;stroke-miterlimit:10;stroke-dasharray:none">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 110.13164,433 0.74363,-120.44886 0.89369,-96.48536 0.8937,-62.95033 0.89369,-39.67411 0.8937,-23.56776 0.89369,-12.48735 0.89369,-4.936934 0.8937,0.132132 0.89369,3.457927 0.8937,5.561676 1.78739,14.284348 3.57478,30.133071 1.78739,13.20759 1.78738,11.50352 1.78739,9.84617 1.78739,8.34497 1.78739,7.03512 1.78739,5.91624 1.78739,4.97222 1.78739,4.18136 1.78739,3.52129 1.78739,2.9713 1.78739,2.51307 1.78739,2.13099 1.78739,1.81194 1.78738,1.54498 1.78739,1.3211 2.68109,1.63818 2.68108,1.30904 2.68109,1.05253 3.57477,1.09809 3.57478,0.83598 4.46847,0.77915 5.36217,0.66308 6.25586,0.5257 8.04326,0.43248 10.72433,0.33451 16.0865,0.24812 26.81084,0.15494 60.77123,0.0736 213.59301,0.014 0,0"
+           style="fill:none;stroke:#204a87;stroke-width:2.4000001;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           id="path5621" />
+      </g>
+      <path
+         id="path5881"
+         style="fill:none;stroke:#204a87;stroke-width:3;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         d="m 739.46875,53.170378 25.2,0"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 369.42656,29.96959 558,0"
+       style="fill:none;stroke:#000000;stroke-width:1.25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path5867"
+       inkscape:export-filename="/home/kale/research/coursework/ucsf/bootcamp/2013/biophysics/images/icons/big-comparison.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        id="text5889"
        x="784.46875"
@@ -1111,7 +1111,7 @@
          sodipodi:cy="1209.9459"
          sodipodi:rx="8.0812206"
          sodipodi:ry="8.0812206"
-         d="m 2.0203052,1209.9459 a 8.0812206,8.0812206 0 1 1 -16.1624412,0 8.0812206,8.0812206 0 1 1 16.1624412,0 z"
+         d="m 2.0203052,1209.9459 c 0,4.4632 -3.6180858,8.0812 -8.0812207,8.0812 -4.4631345,0 -8.0812205,-3.618 -8.0812205,-8.0812 0,-4.4631 3.618086,-8.0812 8.0812205,-8.0812 4.4631349,0 8.0812207,3.6181 8.0812207,8.0812 z"
          transform="matrix(0.7424621,0,0,0.7424621,38.264776,137.98036)" />
       <rect
          style="fill:#fdf6e3;fill-opacity:1;stroke:#657b83;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
@@ -1128,7 +1128,7 @@
          sodipodi:cy="1209.9459"
          sodipodi:rx="8.0812206"
          sodipodi:ry="8.0812206"
-         d="m 2.0203052,1209.9459 a 8.0812206,8.0812206 0 1 1 -16.1624412,0 8.0812206,8.0812206 0 1 1 16.1624412,0 z"
+         d="m 2.0203052,1209.9459 c 0,4.4632 -3.6180858,8.0812 -8.0812207,8.0812 -4.4631345,0 -8.0812205,-3.618 -8.0812205,-8.0812 0,-4.4631 3.618086,-8.0812 8.0812205,-8.0812 4.4631349,0 8.0812207,3.6181 8.0812207,8.0812 z"
          transform="matrix(0.7424621,0,0,0.7424621,21.479056,121.90894)" />
       <path
          style="fill:#fdf6e3;fill-opacity:1;stroke:#657b83;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
@@ -1179,7 +1179,7 @@
          sodipodi:cy="1209.9459"
          sodipodi:rx="8.0812206"
          sodipodi:ry="8.0812206"
-         d="m 2.0203052,1209.9459 a 8.0812206,8.0812206 0 1 1 -16.1624412,0 8.0812206,8.0812206 0 1 1 16.1624412,0 z"
+         d="m 2.0203052,1209.9459 c 0,4.4632 -3.6180858,8.0812 -8.0812207,8.0812 -4.4631345,0 -8.0812205,-3.618 -8.0812205,-8.0812 0,-4.4631 3.618086,-8.0812 8.0812205,-8.0812 4.4631349,0 8.0812207,3.6181 8.0812207,8.0812 z"
          transform="matrix(0.7424621,0,0,0.7424621,115.05025,139.76599)" />
       <path
          sodipodi:type="arc"
@@ -1189,7 +1189,7 @@
          sodipodi:cy="1209.9459"
          sodipodi:rx="8.0812206"
          sodipodi:ry="8.0812206"
-         d="m 2.0203052,1209.9459 a 8.0812206,8.0812206 0 1 1 -16.1624412,0 8.0812206,8.0812206 0 1 1 16.1624412,0 z"
+         d="m 2.0203052,1209.9459 c 0,4.4632 -3.6180858,8.0812 -8.0812207,8.0812 -4.4631345,0 -8.0812205,-3.618 -8.0812205,-8.0812 0,-4.4631 3.618086,-8.0812 8.0812205,-8.0812 4.4631349,0 8.0812207,3.6181 8.0812207,8.0812 z"
          transform="matrix(0.7424621,0,0,0.7424621,94.69311,119.05178)" />
       <path
          style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#657b83;fill-opacity:1;stroke:none;stroke-width:3.5087719;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
@@ -1228,7 +1228,7 @@
          sodipodi:cy="1209.9459"
          sodipodi:rx="8.0812206"
          sodipodi:ry="8.0812206"
-         d="m 2.0203052,1209.9459 a 8.0812206,8.0812206 0 1 1 -16.1624412,0 8.0812206,8.0812206 0 1 1 16.1624412,0 z"
+         d="m 2.0203052,1209.9459 c 0,4.4632 -3.6180858,8.0812 -8.0812207,8.0812 -4.4631345,0 -8.0812205,-3.618 -8.0812205,-8.0812 0,-4.4631 3.618086,-8.0812 8.0812205,-8.0812 4.4631349,0 8.0812207,3.6181 8.0812207,8.0812 z"
          transform="matrix(0.7424621,0,0,0.7424621,96.05187,124.2118)" />
       <path
          sodipodi:type="arc"
@@ -1238,7 +1238,7 @@
          sodipodi:cy="1209.9459"
          sodipodi:rx="8.0812206"
          sodipodi:ry="8.0812206"
-         d="m 2.0203052,1209.9459 a 8.0812206,8.0812206 0 1 1 -16.1624412,0 8.0812206,8.0812206 0 1 1 16.1624412,0 z"
+         d="m 2.0203052,1209.9459 c 0,4.4632 -3.6180858,8.0812 -8.0812207,8.0812 -4.4631345,0 -8.0812205,-3.618 -8.0812205,-8.0812 0,-4.4631 3.618086,-8.0812 8.0812205,-8.0812 4.4631349,0 8.0812207,3.6181 8.0812207,8.0812 z"
          transform="matrix(0.7424621,0,0,0.7424621,90.93384,142.75213)" />
       <path
          sodipodi:type="arc"
@@ -1248,7 +1248,7 @@
          sodipodi:cy="1209.9459"
          sodipodi:rx="8.0812206"
          sodipodi:ry="8.0812206"
-         d="m 2.0203052,1209.9459 a 8.0812206,8.0812206 0 1 1 -16.1624412,0 8.0812206,8.0812206 0 1 1 16.1624412,0 z"
+         d="m 2.0203052,1209.9459 c 0,4.4632 -3.6180858,8.0812 -8.0812207,8.0812 -4.4631345,0 -8.0812205,-3.618 -8.0812205,-8.0812 0,-4.4631 3.618086,-8.0812 8.0812205,-8.0812 4.4631349,0 8.0812207,3.6181 8.0812207,8.0812 z"
          transform="matrix(0.7424621,0,0,0.7424621,118.47409,115.17162)" />
       <path
          sodipodi:type="arc"
@@ -1258,7 +1258,7 @@
          sodipodi:cy="1209.9459"
          sodipodi:rx="8.0812206"
          sodipodi:ry="8.0812206"
-         d="m 2.0203052,1209.9459 a 8.0812206,8.0812206 0 1 1 -16.1624412,0 8.0812206,8.0812206 0 1 1 16.1624412,0 z"
+         d="m 2.0203052,1209.9459 c 0,4.4632 -3.6180858,8.0812 -8.0812207,8.0812 -4.4631345,0 -8.0812205,-3.618 -8.0812205,-8.0812 0,-4.4631 3.618086,-8.0812 8.0812205,-8.0812 4.4631349,0 8.0812207,3.6181 8.0812207,8.0812 z"
          transform="matrix(0.7424621,0,0,0.7424621,112.76469,134.11942)" />
     </g>
     <g
@@ -1309,7 +1309,7 @@
          sodipodi:cy="1209.9459"
          sodipodi:rx="8.0812206"
          sodipodi:ry="8.0812206"
-         d="m 2.0203052,1209.9459 a 8.0812206,8.0812206 0 1 1 -16.1624412,0 8.0812206,8.0812206 0 1 1 16.1624412,0 z"
+         d="m 2.0203052,1209.9459 c 0,4.4632 -3.6180858,8.0812 -8.0812207,8.0812 -4.4631345,0 -8.0812205,-3.618 -8.0812205,-8.0812 0,-4.4631 3.618086,-8.0812 8.0812205,-8.0812 4.4631349,0 8.0812207,3.6181 8.0812207,8.0812 z"
          transform="matrix(0.7424621,0,0,0.7424621,93.39405,133.78212)" />
       <path
          sodipodi:type="arc"
@@ -1319,7 +1319,7 @@
          sodipodi:cy="1209.9459"
          sodipodi:rx="8.0812206"
          sodipodi:ry="8.0812206"
-         d="m 2.0203052,1209.9459 a 8.0812206,8.0812206 0 1 1 -16.1624412,0 8.0812206,8.0812206 0 1 1 16.1624412,0 z"
+         d="m 2.0203052,1209.9459 c 0,4.4632 -3.6180858,8.0812 -8.0812207,8.0812 -4.4631345,0 -8.0812205,-3.618 -8.0812205,-8.0812 0,-4.4631 3.618086,-8.0812 8.0812205,-8.0812 4.4631349,0 8.0812207,3.6181 8.0812207,8.0812 z"
          transform="matrix(0.7424621,0,0,0.7424621,114.82261,138.78213)" />
       <path
          sodipodi:type="arc"
@@ -1329,7 +1329,7 @@
          sodipodi:cy="1209.9459"
          sodipodi:rx="8.0812206"
          sodipodi:ry="8.0812206"
-         d="m 2.0203052,1209.9459 a 8.0812206,8.0812206 0 1 1 -16.1624412,0 8.0812206,8.0812206 0 1 1 16.1624412,0 z"
+         d="m 2.0203052,1209.9459 c 0,4.4632 -3.6180858,8.0812 -8.0812207,8.0812 -4.4631345,0 -8.0812205,-3.618 -8.0812205,-8.0812 0,-4.4631 3.618086,-8.0812 8.0812205,-8.0812 4.4631349,0 8.0812207,3.6181 8.0812207,8.0812 z"
          transform="matrix(0.7424621,0,0,0.7424621,114.10833,117.35355)" />
     </g>
     <g
@@ -1379,7 +1379,7 @@
          sodipodi:cy="1209.9459"
          sodipodi:rx="8.0812206"
          sodipodi:ry="8.0812206"
-         d="m 2.0203052,1209.9459 a 8.0812206,8.0812206 0 1 1 -16.1624412,0 8.0812206,8.0812206 0 1 1 16.1624412,0 z"
+         d="m 2.0203052,1209.9459 c 0,4.4632 -3.6180858,8.0812 -8.0812207,8.0812 -4.4631345,0 -8.0812205,-3.618 -8.0812205,-8.0812 0,-4.4631 3.618086,-8.0812 8.0812205,-8.0812 4.4631349,0 8.0812207,3.6181 8.0812207,8.0812 z"
          transform="matrix(0.7424621,0,0,0.7424621,20.216965,135.38403)" />
       <path
          sodipodi:type="arc"
@@ -1389,7 +1389,7 @@
          sodipodi:cy="1209.9459"
          sodipodi:rx="8.0812206"
          sodipodi:ry="8.0812206"
-         d="m 2.0203052,1209.9459 a 8.0812206,8.0812206 0 1 1 -16.1624412,0 8.0812206,8.0812206 0 1 1 16.1624412,0 z"
+         d="m 2.0203052,1209.9459 c 0,4.4632 -3.6180858,8.0812 -8.0812207,8.0812 -4.4631345,0 -8.0812205,-3.618 -8.0812205,-8.0812 0,-4.4631 3.618086,-8.0812 8.0812205,-8.0812 4.4631349,0 8.0812207,3.6181 8.0812207,8.0812 z"
          transform="matrix(0.7424621,0,0,0.7424621,38.074115,123.59832)" />
     </g>
     <g
