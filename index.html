@@ -59,24 +59,29 @@
                 <h4>What Happens in a Time Step</h4>
                 <ul>
                   <li>Treat every atom as a classical particle.</li>
-                  <li>Each atom has its own position and momentum.  These 
-                  quantities update according to the following equation:</li>
                     <div style="width:100%; text-align:center">
                       <img src="images/position-update.png" height="91"/>
                     </div>
-                  <li>Acceleration comes from the potential energy of the 
-                  system:</li>
+                  <ul>
+                    <li>Acceleration is assumed to be constant.</li>
+                    <li>This is only true when the timestep is faster than the 
+                    fastest motions occurring in the protein (bond 
+                    vibrations).</li>
                     <div style="width:100%; text-align:center">
-                      <img src="images/force-update.png" height="91"/>
+                      <img src="images/time-step.png" height="46">
+                    </div>
+                  </ul>
+                  <li>A potential energy function is used to calculate the 
+                  acceleration of each atom at each timestep.</li>
+                    <div style="width:100%; text-align:center">
+                      <img src="images/force-update.png" height="146"/>
                     </div>
                 </ul>
-
               </section>
 
               <section>
                 <h3>How does Molecular Dynamics Work?</h3>
                 <h4>Bonded Forces</h4>
-                <!--<img src="images/bonded-forces.png" height="200">-->
                 <ul>
                   <li>Bond Lengths:</li>
                   <img src="images/plots/bond-lengths.png" height="50"/>
@@ -88,7 +93,6 @@
                   <img src="images/plots/torsion-angles.png" height="50"/>
                   <img src="images/torsion-angles.png" height="50"/>
                 </ul>
-                <!--<img src="demos/torsion-image.png" height="150"/>-->
               </section>
 
               <section>
@@ -115,18 +119,22 @@
               <section>
                 <h3>How does Molecular Dynamics Work?</h3>
                 <h4>The Hydrophobic Effect</h4>
-
                 <p>Many folding and packing interactions are mediated by the 
                 hydrophobic effect.  How is it represented?</p>
-
                 <ul>
-                  <li><em>Explicit Solvent</em></br>
-                  Simulate every water molecule.  
-                  This is expensive, but it naturally accounts for the entropy 
-                  of water.</li>
-                  <li><em>Implicit Solvent</em></br>
-                  Use the solvent-accessible surface area to roughly 
-                  approximate the hydrophobic effect.</li>
+                  <p><li><em>Explicit Solvent</em></li>
+                    <ul>
+                      <li>Simulate every water molecule.</li>
+                      <li>Periodic boundary conditions.</li>
+                      <li>More expensive, but also more rigorous.</li>
+                    </ul>
+                  </li></p>
+                  <p><li><em>Implicit Solvent</em></br>
+                    <ul>
+                      <li>Use the solvent-accessible surface area to roughly 
+                      approximate the hydrophobic effect.</li>
+                    </ul>
+                  </li></p>
                 </ul>
               </section>
 
@@ -138,6 +146,7 @@
                   <li>What conformations exist in solution?</li>
                   <li>How will a protein fold?</li>
                 </ul>
+                <br/><br/>
                 <img src="images/free-energy.png" height="100"/>
               </section>
 
@@ -181,7 +190,8 @@
 
 
           <section>
-            <h3>Understanding experimental data</h3>
+            <h3>What is Molecular Dynamics Used For?</h3>
+            <h4>Understanding Experimental Data</h4>
                 <div>Recall: Experimentally-derived structures are models</div>
                 <div>
                 <br>
@@ -269,7 +279,7 @@
               </section>
 
 	      <section>
-		<h3> MD at UCSF</h3>
+		<h3> Molecular Dynamics at UCSF</h3>
 		<h4> Multiscale modeling of microtubule assembly </h4>
 	        <h5> Monica Tremont-Hsu </h5>
 		<div>
@@ -280,7 +290,7 @@
 	      </section>
 
               <section>
-                <h3> MD at UCSF</h3>
+                <h3> Molecular Dynamics at UCSF</h3>
                 <h4> Multiscale modeling of microtubule assembly </h4>
                 <h5> Monica Tremont-Hsu </h5>
 		<div>
@@ -293,7 +303,7 @@
               </section>
 
               <section>
-                <h3> MD at UCSF</h3>
+                <h3> Molecular Dynamics at UCSF</h3>
                 <h4> Detection of cryptic binding sites on protein surfaces </h4>
                 <h5> Peter Cimermancic</h5>
 		<div>
@@ -308,7 +318,7 @@
               </section>
 
               <section>
-                <h3> MD at UCSF</h3>
+                <h3> Molecular Dynamics at UCSF</h3>
                 <h4> Detection of cryptic binding sites on protein surfaces </h4>
                 <h5> Peter Cimermancic</h5>
 		<div>
