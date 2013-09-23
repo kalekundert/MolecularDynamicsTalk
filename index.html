@@ -56,11 +56,10 @@
 
     </head>
 
-    <body>
-        <div class="reveal">
-
-<!-- Any section element inside of this container is displayed as a slide -->
+<body>
+<div class="reveal">
 <div class="slides">
+
 <section>
   <h1>
     <span style="font-size: 72px; font-weight: bold;">Molecular
@@ -187,6 +186,7 @@
   <img src="images/equations/free-energy.png" height="100"/>
 </section>
 
+<<<<<<< HEAD
               <section>
                 <h1>
                   <span style="font-size: 72px; font-weight: bold;">Molecular
@@ -448,132 +448,22 @@
 <div class="reveal">
 <div class="slides">
 
+=======
+>>>>>>> 6ff13f31feca026298093f5fe7d1e03dbdcb6da1
 <section>
   <h1>
     <span style="font-size: 72px; font-weight: bold;">Molecular
-    Dynamics</span>
+    Dynamics Applications</span>
   </h1>
-  <div>
-    <p style="font-size: 18px;">Sara Calhoun &mdash; Sali Lab</p>
-    <p style="font-size: 18px;">Kale Kundert &mdash; Kortemme Lab</p>
-    <p style="font-size: 18px;">Diego Garrido Ruiz &mdash; Jacobson Lab</p>
-  </div>
+  <img src="http://static.comicvine.com/uploads/original/3/38919/2178068-master_roshi_and_turtle.jpg">
 </section>
 
 <section>
-  <!-- Aquaporin -->
-  <h3>What is Molecular Dynamics?</h3>
-  <iframe width="420" height="315" src="http://www.youtube.com/embed/qHAf6mNC54Q?rel=0&amp;showinfo=0&amp;controls=0&amp" frameborder="0" allowfullscreen></iframe>
-  <p style="font-size: 18px;">Source: Bert de Groot Lab Group</p>
-</section>
-
-<section>
-  <h3>How does Molecular Dynamics Work?</h3>
-  <h4>What Happens in a Time Step</h4>
-  <ul>
-    <li>Treat every atom as a classical particle.</li>
-      <div style="width:100%; text-align:center">
-        <img src="images/equations/classical-particle.png" height="91"/>
-      </div>
-    <ul>
-      <li>Acceleration is assumed to be constant.</li>
-      <li>This is only true when the timestep is faster than the fastest 
-      motion occurring in the protein: bond vibrations.</li>
-      <div style="width:100%; text-align:center">
-        <img src="images/equations/time-step.png" height="46">
-      </div>
-    </ul>
-    <li>A potential energy function is used to calculate the acceleration of 
-    each atom at each timestep.</li>
-      <div style="width:100%; text-align:center">
-        <img src="images/equations/potential-energy.png" height="154"/>
-      </div>
-  </ul>
-</section>
-
-<section>
-  <h3>How does Molecular Dynamics Work?</h3>
-  <h4>Bonded Forces</h4>
-  <ul>
-    <li>Bond Lengths:</li>
-    <img src="images/icons/bond-lengths.png" height="50"/>
-    <img src="images/equations/bond-lengths.png" height="50"/>
-    <li>Bond Angles:</li>
-    <img src="images/icons/bond-angles.png" height="50"/>
-    <img src="images/equations/bond-angles.png" height="50"/>
-    <li>Torsion Angles:</li>
-    <img src="images/icons/torsion-angles.png" height="50"/>
-    <img src="images/equations/torsion-angles.png" height="50"/>
-  </ul>
-</section>
-
-<section>
-  <div id=basic onclick="overlay()">
-    <h3>How does Molecular Dynamics Work?</h3>
-    <h4>Non-Bonded Forces</h4>
-    <ul>
-      <li>Van der Waals Forces</li>
-        <table><tr>
-          <td style="vertical-align:middle">
-            <img src="images/icons/van-der-waals.png" height="50"/>
-          <td style="vertical-align:middle">
-            <img src="images/equations/van-der-waals.png" height="77"/></td>
-        </tr></table>
-      <li>Electrostatic Forces:</li>
-        <table><tr>
-          <td style="vertical-align:middle">
-            <img src="images/icons/electrostatics.png" height="50"/></td>
-          <td style="vertical-align:middle">
-            <img src="images/equations/electrostatics.png" height="61"/></td>
-        </tr></table>
-    </ul>
-  </div>
-  <div id=overlay onclick="overlay()">
-    <img src="images/icons/big-comparison.png"/>
-  </div>
-</section>
-
-<section>
-  <h3>How does Molecular Dynamics Work?</h3>
-  <h4>The Hydrophobic Effect</h4>
-  <p>Many folding and packing interactions are mediated by the 
-  hydrophobic effect.  How is it represented?</p>
-  <ul>
-    <p><li><em>Explicit Solvent</em></li>
-      <ul>
-        <li>Simulate every water molecule.</li>
-        <li>Periodic boundary conditions.</li>
-        <li>More expensive, but also more rigorous.</li>
-      </ul>
-    </li></p>
-    <p><li><em>Implicit Solvent</em></br>
-      <ul>
-        <li>Use the solvent-accessible surface area to roughly 
-        approximate the hydrophobic effect.</li>
-      </ul>
-    </li></p>
-  </ul>
-</section>
-
-<section>
-  <h3>How does Molecular Dynamics Work?</h3>
-  <h4>Free Energies</h4>
-  <ul>
-    <li>Will one protein bind to another?</li>
-    <li>What conformations exist in solution?</li>
-    <li>How will a protein fold?</li>
-  </ul>
-  <br/><br/>
-  <img src="images/equations/free-energy.png" height="100"/>
-</section>
-
-<section>
-  <h3>What is Molecular Dynamics Used For?</h3>
+  <h3>How MD Adresses biophysical questions?</h3>
   <ul>
     <li>Does the data address the question?</li>
-    <li>Experimental validation</li>
-    <li>Appropriate assumptions</li>
     <li>Time-scales of motion</li>
+    <li>Appropriate assumptions</li>
   </ul>
   <div style="text-align: center;">
     <img src="http://ars.els-cdn.com/content/image/1-s2.0-S1471489210001463-gr1.jpg"
@@ -607,8 +497,7 @@
 
 
 <section>
-<h3>What is Molecular Dynamics Used For?</h3>
-<h4>Understanding Experimental Data</h4>
+<h3>Understanding experimental data</h3>
   <div>Recall: Experimentally-derived structures are models</div>
   <div>
   <br>
@@ -696,7 +585,14 @@
 </section>
 
 <section>
-<h3> Molecular Dynamics at UCSF</h3>
+  <h1>
+    <span style="font-size: 72px; font-weight: bold;">MD Applications at UCSF</span>
+  </h1>
+  <img src="http://sfcitizen.com/blog/wp-content/uploads/2009/02/img_2271-copy.jpg" height="400">
+</section>
+
+<section>
+<h3> MD at UCSF</h3>
 <h4> Multiscale modeling of microtubule assembly </h4>
 <h5> Monica Tremont-Hsu </h5>
 <div>
@@ -707,7 +603,7 @@
 </section>
 
 <section>
-  <h3> Molecular Dynamics at UCSF</h3>
+  <h3> MD at UCSF</h3>
   <h4> Multiscale modeling of microtubule assembly </h4>
   <h5> Monica Tremont-Hsu </h5>
 <div>
@@ -720,7 +616,7 @@
 </section>
 
 <section>
-  <h3> Molecular Dynamics at UCSF</h3>
+  <h3> MD at UCSF</h3>
   <h4> Detection of cryptic binding sites on protein surfaces </h4>
   <h5> Peter Cimermancic</h5>
 <div>
@@ -735,18 +631,19 @@
 </section>
 
 <section>
-  <h3> Molecular Dynamics at UCSF</h3>
+  <h3> MD at UCSF</h3>
   <h4> Detection of cryptic binding sites on protein surfaces </h4>
   <h5> Peter Cimermancic</h5>
 <div>
 <ul>
      <br />
-<li> Coarse-grained force field based on Calpha inter-residue distances. </li>
-<li> Overcomes limitations of traditional MD. Tradeoff between highly detailed representation and reaching longer timescales. </li>
+<li> Coarse-grained force field based on inter-residue distances. </li>
      <li> Machine learning algorithm integrates data from MD as well as other features to predict cryptic binding sites </li>
+<li> Tradeoff between highly detailed representation and reaching longer timescales. </li>
+<li> Improved approach: 6 month vs. 2 days simulation time</li>
 </ul>
 <br />
-<img src=/ />
+<img src="https://raw.github.com/kalekundert/MolecularDynamicsTalk/master/images/img2peter.png"/>
   </div>
 </section>
 
@@ -778,28 +675,27 @@
 // Full list of configuration options available here:
 // https://github.com/hakimel/reveal.js#configuration
 Reveal.initialize({
-  controls: true,
-  progress: true,
-  history: true,
-  center: true,
+controls: true,
+progress: true,
+history: true,
+center: true,
 
-  theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
-  transition: 'none',
+theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+transition: 'none',
 
-  // Optional libraries used to extend on reveal.js
-  dependencies: [
-      { src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
-      { src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-      { src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-      { src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
-      { src: 'plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
-      { src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
-      // { src: 'plugin/search/search.js', async: true, condition: function() { return !!document.body.classList; } }
-      // { src: 'plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
-  ]
+// Optional libraries used to extend on reveal.js
+dependencies: [
+{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+{ src: 'plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+{ src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+// { src: 'plugin/search/search.js', async: true, condition: function() { return !!document.body.classList; } }
+// { src: 'plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
+]
 });
 
 </script>
-
 </body>
 </html>
